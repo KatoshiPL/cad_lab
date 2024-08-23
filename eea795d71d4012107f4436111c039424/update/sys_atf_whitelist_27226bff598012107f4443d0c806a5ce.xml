@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_whitelist">
+    <sys_atf_whitelist action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <error_location>server_error</error_location>
+        <error_message>com.glide.ui.concourse.ConcoursePickerGenerator$ConcoursePickerException: com.glide.rest.domain.Serv</error_message>
+        <report_level>ignored</report_level>
+        <sys_class_name>sys_atf_whitelist</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-23 08:44:15</sys_created_on>
+        <sys_id>27226bff598012107f4443d0c806a5ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>com.glide.ui.concourse.ConcoursePickerGenerator$ConcoursePickerException: com.glide.rest.domain.Serv</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">eea795d71d4012107f4436111c039424</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">eea795d71d4012107f4436111c039424</sys_scope>
+        <sys_update_name>sys_atf_whitelist_27226bff598012107f4443d0c806a5ce</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-23 08:44:15</sys_updated_on>
+        <test display_value="My First Loaner Request ATF Test">d420ef3f598012107f4443d0c806a52c</test>
+    </sys_atf_whitelist>
+</record_update>
